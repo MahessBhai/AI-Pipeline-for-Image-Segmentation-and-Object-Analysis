@@ -4,9 +4,6 @@ import os
 import json
 from models.ocr_seg_iden_model import ObjectDetectionPipeline
 
-# pipeline = ObjectDetectionPipeline()
-
-
 def main():
     # Title and description
     st.title("Image Segmentation and Object Analysis")
@@ -43,8 +40,34 @@ def main():
                     
                     # Process the saved image
                     st.write(f"Processing {img_path}...")
-                    pipeline.process(img_path, output_dir)
+                    master_id = pipeline.process(img_path, output_dir)
                     st.success(f"Processing completed! Results are saved in {output_dir}")
+
+                    # Show the segmented image with master_id
+                    segmented_image_path = os.path.join(output_dir, "output", f"{master_id}_segmented.png")
+                    if os.path.exists(segmented_image_path):
+                        st.image(segmented_image_path, caption="Segmented Image")
+                    else:
+                        st.warning("Segmented image not found.")
+
+                    # Option to view segmented objects and metadata
+                    if st.checkbox("Show Segmented Objects"):
+                        segmented_objects_dir = os.path.join(output_dir, "segmented_objects", master_id)
+                        if os.path.exists(segmented_objects_dir):
+                            segmented_files = os.listdir(segmented_objects_dir)
+                            for obj_file in segmented_files:
+                                st.image(os.path.join(segmented_objects_dir, obj_file), caption=obj_file)
+                        else:
+                            st.warning("Segmented objects not found.")
+
+                    if st.checkbox("Show Metadata"):
+                        metadata_file = os.path.join(output_dir, "output", f"{master_id}_metadata.json")
+                        if os.path.exists(metadata_file):
+                            with open(metadata_file, 'r') as f:
+                                metadata = json.load(f)
+                            st.json(metadata)
+                        else:
+                            st.warning("Metadata not found.")
 
             else:
                 if input_file:
@@ -56,7 +79,7 @@ def main():
                         
                         # Process each saved image
                         st.write(f"Processing {img_path}...")
-                        pipeline.process(img_path, output_dir)
+                        master_id = pipeline.process(img_path, output_dir)
                     
                     st.success(f"Processing completed for all images! Results are saved in {output_dir}")
 
