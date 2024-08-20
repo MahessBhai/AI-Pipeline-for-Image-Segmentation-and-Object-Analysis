@@ -124,31 +124,36 @@ class ObjectDetectionPipeline:
         
         ax.imshow(img)
 
-    def _process_image(self, ipath, output_dir):
+    def _process_image(self, ipath, output_dir, master_id):
         """
         Process a single image for object detection and segmentation.
+        
+        Args:
+            ipath (str): Path to the input image.
+            output_dir (str): Directory to save the segmented objects and metadata.
+            master_id (str): Unique identifier for this image processing session.
         """
         image = cv2.imread(ipath)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         masks = self.mask_generator.generate(image)
-        master_id = str(uuid.uuid4())
+
         plt.figure(figsize=(10, 10))
         plt.imshow(image)
         self._show_anns(masks)
         torch.cuda.empty_cache()
-
-        segmented_image_filename = os.path.join(output_dir, 'output', f"{master_id}.png")
-        plt.savefig(segmented_image_filename, bbox_inches='tight')
-        plt.close()
-
         object_data = self._extract_identify_and_save_objects(image, masks, master_id, output_dir)
-
-        # Metadata will be saved in output/{master_id}_metadata.json
-        metadata_dir = os.path.join(output_dir, "output")
-        os.makedirs(metadata_dir, exist_ok=True)
-        metadata_filename = os.path.join(metadata_dir, f"{master_id}_metadata.json")
+        
+        intrim = os.path.join(output_dir, "output")
+        os.makedirs(intrim, exist_ok=True)
+        metadata_filename = os.path.join(intrim, f"{master_id}_metadata.json")
+        
         with open(metadata_filename, 'w') as f:
             json.dump(object_data, f, indent=4)
+
+        # Save the segmented image with master_id in filename
+        segmented_image_path = os.path.join(intrim, f"{master_id}_segmented.png")
+        plt.savefig(segmented_image_path)
+        plt.close()
 
         print(f"Objects, descriptions, OCR text, and metadata saved to {output_dir}")
 
@@ -160,16 +165,21 @@ class ObjectDetectionPipeline:
             input_path (str): Path to the input image file or folder.
             output_dir (str): Directory to save the segmented objects and metadata.
         """
+
+        master_id = str(uuid.uuid4())  # Create master_id before processing
+
         if os.path.isdir(input_path):  # Check if input is a directory
             image_files = [f for f in os.listdir(input_path) if os.path.isfile(os.path.join(input_path, f))]
             for image_file in image_files:
                 image_path = os.path.join(input_path, image_file)
                 if image_path.lower().endswith(('.png', '.jpg', '.jpeg')):
                     print(f"Processing {image_path}...")
-                    self._process_image(image_path, output_dir)
+                    self._process_image(image_path, output_dir, master_id)
         else:  # If input is a single image file
             if input_path.lower().endswith(('.png', '.jpg', '.jpeg')):
-                self._process_image(input_path, output_dir)
+                self._process_image(input_path, output_dir, master_id)
+
+        return master_id  # Return master_id after processing
 
 # Usage
 if __name__ == "__main__":
