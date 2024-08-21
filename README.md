@@ -18,4 +18,7 @@ streamlit run app.py
 
 ## system requirements
 tested on GP100 and RTX4060 mobile GPUs
+suggested imput image size to prevent cuda out of memory error:
+for 4060 8GiB GPU: up 1MB
+for Quadro GP100 10GiB GPU: upto 5MB
 
