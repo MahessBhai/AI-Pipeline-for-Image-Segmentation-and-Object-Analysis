@@ -31,6 +31,7 @@ def main():
         if not input_file:
             st.error("Please upload an image or select a folder.")
         else:
+            master_id = None
             if input_type == 'Single Image':
                 if input_file is not None:
                     # Save the uploaded file to a temp location
@@ -42,32 +43,6 @@ def main():
                     st.write(f"Processing {img_path}...")
                     master_id = pipeline.process(img_path, output_dir)
                     st.success(f"Processing completed! Results are saved in {output_dir}")
-
-                    # Show the segmented image with master_id
-                    segmented_image_path = os.path.join(output_dir, "output", f"{master_id}_segmented.png")
-                    if os.path.exists(segmented_image_path):
-                        st.image(segmented_image_path, caption="Segmented Image")
-                    else:
-                        st.warning("Segmented image not found.")
-
-                    # Option to view segmented objects and metadata
-                    if st.checkbox("Show Segmented Objects"):
-                        segmented_objects_dir = os.path.join(output_dir, "segmented_objects", master_id)
-                        if os.path.exists(segmented_objects_dir):
-                            segmented_files = os.listdir(segmented_objects_dir)
-                            for obj_file in segmented_files:
-                                st.image(os.path.join(segmented_objects_dir, obj_file), caption=obj_file)
-                        else:
-                            st.warning("Segmented objects not found.")
-
-                    if st.checkbox("Show Metadata"):
-                        metadata_file = os.path.join(output_dir, "output", f"{master_id}_metadata.json")
-                        if os.path.exists(metadata_file):
-                            with open(metadata_file, 'r') as f:
-                                metadata = json.load(f)
-                            st.json(metadata)
-                        else:
-                            st.warning("Metadata not found.")
 
             else:
                 if input_file:
@@ -82,6 +57,50 @@ def main():
                         master_id = pipeline.process(img_path, output_dir)
                     
                     st.success(f"Processing completed for all images! Results are saved in {output_dir}")
+
+            # If processing was successful and master_id is available
+            if master_id:
+                # Session state for displaying results
+                st.session_state.master_id = master_id
+                st.session_state.output_dir = output_dir
+
+    # Display segmented images and metadata
+    if 'master_id' in st.session_state:
+        st.sidebar.title("View Results")
+        
+        show_segmented_image = st.sidebar.checkbox("Show Segmented Image", value=False)
+        show_metadata = st.sidebar.checkbox("Show Metadata", value=False)
+        show_segmented_objects = st.sidebar.checkbox("Show Segmented Objects", value=False)
+        
+        if show_segmented_image:
+            segmented_image_path = os.path.join(st.session_state.output_dir, "output", f"{st.session_state.master_id}_segmented.png")
+            if os.path.exists(segmented_image_path):
+                st.subheader("Segmented Image")
+                image = Image.open(segmented_image_path)
+                st.image(image, caption="Segmented Image")
+            else:
+                st.warning("Segmented image not found.")
+        if show_metadata:
+            metadata_file = os.path.join(st.session_state.output_dir, "output", f"{st.session_state.master_id}_metadata.json")
+            if os.path.exists(metadata_file):
+                with open(metadata_file, "r") as f:
+                    metadata = json.load(f)
+                st.subheader("Metadata")
+                st.json(metadata)
+            else:
+                st.warning("Metadata file not found.")
+        
+        if show_segmented_objects:
+            segmented_objects_dir = os.path.join(st.session_state.output_dir, "segmented_objects", st.session_state.master_id)
+            if os.path.isdir(segmented_objects_dir):
+                st.subheader("Segmented Objects")
+                segmented_files = [f for f in os.listdir(segmented_objects_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+                for img_file in segmented_files:
+                    img_path = os.path.join(segmented_objects_dir, img_file)
+                    image = Image.open(img_path)
+                    st.image(image, caption=img_file)
+            else:
+                st.warning("Segmented objects directory not found.")
 
 if __name__ == "__main__":
     main()
