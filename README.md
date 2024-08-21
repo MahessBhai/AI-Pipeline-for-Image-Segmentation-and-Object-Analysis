@@ -15,6 +15,7 @@ pip install -r requirements.txt
 
 # Usage Guidelines
 streamlit run app.py
+*if geth path error, move app.py up a directry and then run
 
 ## system requirements
 tested on GP100 and RTX4060 mobile GPUs
