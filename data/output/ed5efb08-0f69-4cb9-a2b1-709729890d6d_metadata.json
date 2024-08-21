@@ -1,0 +1,1082 @@
+[
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_0",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_0.png",
+        "area": 41507,
+        "bbox": [
+            405,
+            97,
+            265,
+            243
+        ],
+        "description": "envelope",
+        "extracted_text": "",
+        "about": "A flat, usually rectangular piece of paper used for enclosing a letter or document, often sealed and addressed for mailing."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_1",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_1.png",
+        "area": 1780,
+        "bbox": [
+            120,
+            772,
+            65,
+            32
+        ],
+        "description": "bulletproof vest",
+        "extracted_text": "",
+        "about": "A protective garment worn to shield the body from bullets, typically made of reinforced materials like Kevlar."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_2",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_2.png",
+        "area": 3903,
+        "bbox": [
+            612,
+            777,
+            91,
+            45
+        ],
+        "description": "velvet",
+        "extracted_text": "",
+        "about": "A type of soft, luxurious fabric with a smooth, short pile, often used for clothing or upholstery."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_3",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_3.png",
+        "area": 28686,
+        "bbox": [
+            679,
+            269,
+            189,
+            170
+        ],
+        "description": "doormat, welcome mat",
+        "extracted_text": "",
+        "about": "A mat placed in front of a door to wipe feet on before entering, often featuring a \"Welcome\" message or decorative pattern."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_4",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_4.png",
+        "area": 5124,
+        "bbox": [
+            1043,
+            311,
+            90,
+            82
+        ],
+        "description": "ski mask",
+        "extracted_text": "",
+        "about": "A knit mask that covers the face and neck, often worn for warmth or anonymity, commonly used in winter sports or by criminals."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_5",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_5.png",
+        "area": 5391,
+        "bbox": [
+            280,
+            536,
+            60,
+            110
+        ],
+        "description": "packet",
+        "extracted_text": "",
+        "about": "A small, often sealed package containing goods or food items, used for convenience in distribution and storage."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_6",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_6.png",
+        "area": 12696,
+        "bbox": [
+            870,
+            430,
+            248,
+            79
+        ],
+        "description": "knee pad",
+        "extracted_text": "",
+        "about": "Protective gear worn over the knees to cushion and protect them from injury during activities like sports, construction work, or gardening."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_7",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_7.png",
+        "area": 3939,
+        "bbox": [
+            622,
+            669,
+            76,
+            53
+        ],
+        "description": "moving van",
+        "extracted_text": "",
+        "about": "A large vehicle used for transporting household goods during a move, equipped with a spacious cargo area and ramps for easy loading."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_8",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_8.png",
+        "area": 16372,
+        "bbox": [
+            552,
+            822,
+            311,
+            76
+        ],
+        "description": "car mirror",
+        "extracted_text": "",
+        "about": "A reflective surface attached to the side or interior of a car, used for viewing areas outside the driver's direct line of sight."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_9",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_9.png",
+        "area": 3621,
+        "bbox": [
+            704,
+            669,
+            73,
+            53
+        ],
+        "description": "oil filter",
+        "extracted_text": "",
+        "about": "A device used in engines to remove contaminants from oil, ensuring the engine runs smoothly and efficiently, vital for vehicle maintenance."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_10",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_10.png",
+        "area": 5389,
+        "bbox": [
+            223,
+            431,
+            128,
+            77
+        ],
+        "description": "chain saw, chainsaw",
+        "extracted_text": "ShHSUND",
+        "about": "A portable, motorized saw with a chain of teeth, used for cutting wood or other materials."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_11",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_11.png",
+        "area": 36635,
+        "bbox": [
+            897,
+            62,
+            266,
+            266
+        ],
+        "description": "perfume, essence",
+        "extracted_text": "",
+        "about": "A fragrant liquid applied to the body or clothing to give a pleasant scent, often made from essential oils and alcohol."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_12",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_12.png",
+        "area": 3642,
+        "bbox": [
+            543,
+            670,
+            74,
+            51
+        ],
+        "description": "scoreboard",
+        "extracted_text": "",
+        "about": "A large display board used to show the scores in sports games, often featuring lights or digital displays, essential in stadiums and arenas."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_13",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_13.png",
+        "area": 3615,
+        "bbox": [
+            462,
+            787,
+            70,
+            54
+        ],
+        "description": "prison, prison house",
+        "extracted_text": "",
+        "about": "A secure facility where individuals are incarcerated as punishment for crimes, often featuring cells, bars, and strict surveillance."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_14",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_14.png",
+        "area": 44234,
+        "bbox": [
+            392,
+            286,
+            286,
+            215
+        ],
+        "description": "envelope",
+        "extracted_text": "",
+        "about": "A flat, usually rectangular piece of paper used for enclosing a letter or document, often sealed and addressed for mailing."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_15",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_15.png",
+        "area": 1385,
+        "bbox": [
+            372,
+            375,
+            36,
+            44
+        ],
+        "description": "binder, ring-binder",
+        "extracted_text": "",
+        "about": "A cover with rings used for holding loose papers together."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_16",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_16.png",
+        "area": 1333,
+        "bbox": [
+            0,
+            0,
+            46,
+            62
+        ],
+        "description": "curly-coated retriever",
+        "extracted_text": "",
+        "about": "The Curly-Coated Retriever is a large, athletic breed with distinctive tight curls, known for its intelligence and versatility in the field."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_17",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_17.png",
+        "area": 1624,
+        "bbox": [
+            425,
+            786,
+            33,
+            51
+        ],
+        "description": "abaya",
+        "extracted_text": "",
+        "about": "A loose, flowing cloak worn by some Muslim women, covering the body from head to toe, traditionally black and worn with a headscarf. Here\u00e2\u20ac\u2122s the formatted list"
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_18",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_18.png",
+        "area": 741,
+        "bbox": [
+            853,
+            705,
+            43,
+            17
+        ],
+        "description": "cleaver, meat cleaver, chopper",
+        "extracted_text": "",
+        "about": "A large knife used for cutting meat, often found in kitchens or butcher shops, known for its heavy, broad blade."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_19",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_19.png",
+        "area": 427,
+        "bbox": [
+            1180,
+            876,
+            19,
+            23
+        ],
+        "description": "loupe, jeweler's loupe",
+        "extracted_text": "",
+        "about": "A small magnifying glass used by jewelers to inspect fine details in gemstones and watches, typically offering high magnification."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_20",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_20.png",
+        "area": 3388,
+        "bbox": [
+            613,
+            736,
+            86,
+            40
+        ],
+        "description": "stopwatch, stop watch",
+        "extracted_text": "",
+        "about": "A portable timekeeping device used to measure elapsed time with precision, often used in sports or experiments."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_21",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_21.png",
+        "area": 2040,
+        "bbox": [
+            160,
+            88,
+            12,
+            173
+        ],
+        "description": "milk can",
+        "extracted_text": "",
+        "about": "A large metal container used for storing and transporting milk, traditionally used on dairy farms and in milk distribution."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_22",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_22.png",
+        "area": 1499,
+        "bbox": [
+            433,
+            672,
+            34,
+            49
+        ],
+        "description": "bulletproof vest",
+        "extracted_text": "",
+        "about": "A protective garment worn to shield the body from bullets, typically made of reinforced materials like Kevlar."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_23",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_23.png",
+        "area": 1087,
+        "bbox": [
+            1083,
+            864,
+            40,
+            35
+        ],
+        "description": "chambered nautilus, pearly nautilus, nautilus",
+        "extracted_text": "",
+        "about": "The Chambered Nautilus is a cephalopod with a spiral shell divided into chambers. Found in the Indo-Pacific, it uses buoyancy to navigate the ocean depths and is known for its distinctive shell."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_24",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_24.png",
+        "area": 3405,
+        "bbox": [
+            709,
+            463,
+            98,
+            45
+        ],
+        "description": "hoopskirt, crinoline",
+        "extracted_text": "",
+        "about": "A framework of hoops worn under a skirt to extend its shape, popular in the 19th century, giving the skirt a wide, bell-like appearance."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_25",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_25.png",
+        "area": 2345,
+        "bbox": [
+            629,
+            834,
+            56,
+            46
+        ],
+        "description": "knee pad",
+        "extracted_text": "",
+        "about": "Protective gear worn over the knees to cushion and protect them from injury during activities like sports, construction work, or gardening."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_26",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_26.png",
+        "area": 988,
+        "bbox": [
+            707,
+            402,
+            31,
+            34
+        ],
+        "description": "prayer rug, prayer mat",
+        "extracted_text": "0",
+        "about": "A small, portable mat used by Muslims for kneeling and prostrating during prayers, often intricately designed and aligned towards Mecca."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_27",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_27.png",
+        "area": 2094,
+        "bbox": [
+            274,
+            844,
+            46,
+            51
+        ],
+        "description": "bulletproof vest",
+        "extracted_text": "",
+        "about": "A protective garment worn to shield the body from bullets, typically made of reinforced materials like Kevlar."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_28",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_28.png",
+        "area": 8886,
+        "bbox": [
+            1162,
+            245,
+            37,
+            411
+        ],
+        "description": "pedestal, plinth, footstall",
+        "extracted_text": "",
+        "about": "A base or platform that supports a statue, column, or structure, often used in architecture and art to elevate and showcase objects."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_29",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_29.png",
+        "area": 5592,
+        "bbox": [
+            0,
+            789,
+            110,
+            85
+        ],
+        "description": "sports car, sport car",
+        "extracted_text": "",
+        "about": "A high-performance car designed for speed and agility, often with a sleek, aerodynamic design."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_30",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_30.png",
+        "area": 1552,
+        "bbox": [
+            92,
+            643,
+            34,
+            51
+        ],
+        "description": "abaya",
+        "extracted_text": "ff",
+        "about": "A loose, flowing cloak worn by some Muslim women, covering the body from head to toe, traditionally black and worn with a headscarf. Here\u00e2\u20ac\u2122s the formatted list"
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_31",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_31.png",
+        "area": 5180,
+        "bbox": [
+            235,
+            531,
+            65,
+            120
+        ],
+        "description": "hair spray",
+        "extracted_text": "",
+        "about": "A cosmetic product in aerosol form, used to hold hair in place, providing a strong, lasting hold for hairstyles."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_32",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_32.png",
+        "area": 1358,
+        "bbox": [
+            238,
+            748,
+            39,
+            37
+        ],
+        "description": "prison, prison house",
+        "extracted_text": "H",
+        "about": "A secure facility where individuals are incarcerated as punishment for crimes, often featuring cells, bars, and strict surveillance."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_33",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_33.png",
+        "area": 400,
+        "bbox": [
+            1061,
+            460,
+            17,
+            25
+        ],
+        "description": "screen, CRT screen",
+        "extracted_text": "D",
+        "about": "A screen made from glass or plastic, used to display images or text from a computer or TV, essential in modern electronics."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_34",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_34.png",
+        "area": 3378,
+        "bbox": [
+            469,
+            672,
+            70,
+            50
+        ],
+        "description": "scoreboard",
+        "extracted_text": "ST",
+        "about": "A large display board used to show the scores in sports games, often featuring lights or digital displays, essential in stadiums and arenas."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_35",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_35.png",
+        "area": 2534,
+        "bbox": [
+            372,
+            673,
+            58,
+            48
+        ],
+        "description": "scoreboard",
+        "extracted_text": "",
+        "about": "A large display board used to show the scores in sports games, often featuring lights or digital displays, essential in stadiums and arenas."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_36",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_36.png",
+        "area": 3553,
+        "bbox": [
+            843,
+            674,
+            90,
+            48
+        ],
+        "description": "digital clock",
+        "extracted_text": "Fa",
+        "about": "A clock that displays the time in digital numbers, often with additional features such as alarms and timers. Here\u00e2\u20ac\u2122s the formatted list"
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_37",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_37.png",
+        "area": 1467,
+        "bbox": [
+            366,
+            852,
+            36,
+            47
+        ],
+        "description": "face powder",
+        "extracted_text": "",
+        "about": "A cosmetic product in powdered form, applied to the face to reduce shine and create a smooth, even complexion."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_38",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_38.png",
+        "area": 1773,
+        "bbox": [
+            982,
+            567,
+            42,
+            50
+        ],
+        "description": "carpenter's kit, tool kit",
+        "extracted_text": "",
+        "about": "A collection of tools used by carpenters for woodworking tasks, typically stored in a portable case."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_39",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_39.png",
+        "area": 5219,
+        "bbox": [
+            987,
+            135,
+            71,
+            121
+        ],
+        "description": "revolver, six-gun, six-shooter",
+        "extracted_text": "",
+        "about": "A handheld firearm with a revolving cylinder, capable of holding multiple rounds, historically significant in the Old West and still in use today."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_40",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_40.png",
+        "area": 1660,
+        "bbox": [
+            952,
+            526,
+            35,
+            53
+        ],
+        "description": "revolver, six-gun, six-shooter",
+        "extracted_text": "",
+        "about": "A handheld firearm with a revolving cylinder, capable of holding multiple rounds, historically significant in the Old West and still in use today."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_41",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_41.png",
+        "area": 719,
+        "bbox": [
+            885,
+            31,
+            32,
+            29
+        ],
+        "description": "gasmask, respirator, gas helmet",
+        "extracted_text": "6",
+        "about": "A protective mask worn over the face to filter out harmful gases, commonly used by firefighters, soldiers, and in industrial settings."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_42",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_42.png",
+        "area": 744,
+        "bbox": [
+            1181,
+            694,
+            18,
+            45
+        ],
+        "description": "hand-held computer, hand-held microcomputer",
+        "extracted_text": "",
+        "about": "A small, portable computer that can be held in one hand, typically used for tasks like note-taking, scheduling, and communication."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_43",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_43.png",
+        "area": 13649,
+        "bbox": [
+            49,
+            726,
+            151,
+            125
+        ],
+        "description": "electric guitar",
+        "extracted_text": "",
+        "about": "A stringed musical instrument with electric pickups that amplify sound, commonly used in genres like rock, blues, and jazz."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_44",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_44.png",
+        "area": 3878,
+        "bbox": [
+            818,
+            565,
+            97,
+            50
+        ],
+        "description": "cassette",
+        "extracted_text": "",
+        "about": "A small, rectangular container holding magnetic tape for audio or video recording and playback."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_45",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_45.png",
+        "area": 4302,
+        "bbox": [
+            593,
+            319,
+            46,
+            125
+        ],
+        "description": "Band Aid",
+        "extracted_text": "",
+        "about": "A small adhesive strip used for covering minor wounds."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_46",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_46.png",
+        "area": 9999,
+        "bbox": [
+            964,
+            653,
+            185,
+            80
+        ],
+        "description": "chime, bell, gong",
+        "extracted_text": "",
+        "about": "A musical instrument or signaling device that produces sound by being struck, often used in ceremonies or to mark time."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_47",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_47.png",
+        "area": 704,
+        "bbox": [
+            160,
+            550,
+            17,
+            48
+        ],
+        "description": "prison, prison house",
+        "extracted_text": "H",
+        "about": "A secure facility where individuals are incarcerated as punishment for crimes, often featuring cells, bars, and strict surveillance."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_48",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_48.png",
+        "area": 3473,
+        "bbox": [
+            1112,
+            767,
+            41,
+            96
+        ],
+        "description": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+        "extracted_text": "",
+        "about": "An electronic device that converts electrical audio signals into sound, commonly used in audio systems, public address systems, and concerts."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_49",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_49.png",
+        "area": 607,
+        "bbox": [
+            702,
+            761,
+            48,
+            18
+        ],
+        "description": "chain saw, chainsaw",
+        "extracted_text": "",
+        "about": "A portable, motorized saw with a chain of teeth, used for cutting wood or other materials."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_50",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_50.png",
+        "area": 1543,
+        "bbox": [
+            298,
+            171,
+            61,
+            42
+        ],
+        "description": "cradle",
+        "extracted_text": "",
+        "about": "A small bed for a baby, often with rocking supports, designed to provide comfort and security for an infant."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_51",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_51.png",
+        "area": 1697,
+        "bbox": [
+            424,
+            391,
+            33,
+            83
+        ],
+        "description": "stopwatch, stop watch",
+        "extracted_text": "",
+        "about": "A portable timekeeping device used to measure elapsed time with precision, often used in sports or experiments."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_52",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_52.png",
+        "area": 1049,
+        "bbox": [
+            113,
+            486,
+            28,
+            44
+        ],
+        "description": "prison, prison house",
+        "extracted_text": "IH",
+        "about": "A secure facility where individuals are incarcerated as punishment for crimes, often featuring cells, bars, and strict surveillance."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_53",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_53.png",
+        "area": 587,
+        "bbox": [
+            647,
+            632,
+            27,
+            23
+        ],
+        "description": "space shuttle",
+        "extracted_text": "",
+        "about": "A reusable spacecraft designed for transporting astronauts and cargo between Earth and space."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_54",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_54.png",
+        "area": 736,
+        "bbox": [
+            703,
+            203,
+            27,
+            43
+        ],
+        "description": "chain saw, chainsaw",
+        "extracted_text": "jL",
+        "about": "A portable, motorized saw with a chain of teeth, used for cutting wood or other materials."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_55",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_55.png",
+        "area": 451,
+        "bbox": [
+            970,
+            450,
+            22,
+            26
+        ],
+        "description": "lotion",
+        "extracted_text": "H",
+        "about": "A creamy or liquid preparation applied to the skin for moisturizing, soothing, or medicinal purposes, often used daily."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_56",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_56.png",
+        "area": 53818,
+        "bbox": [
+            182,
+            468,
+            493,
+            190
+        ],
+        "description": "wallet, billfold, notecase, pocketbook",
+        "extracted_text": "",
+        "about": "A small, portable case used for carrying money, identification, and credit cards."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_57",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_57.png",
+        "area": 192036,
+        "bbox": [
+            0,
+            0,
+            1199,
+            448
+        ],
+        "description": "volcano",
+        "extracted_text": "",
+        "about": "An opening in the Earth's crust that erupts molten lava, ash, and gases, forming a mountainous structure."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_58",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_58.png",
+        "area": 47699,
+        "bbox": [
+            651,
+            61,
+            271,
+            218
+        ],
+        "description": "barbershop",
+        "extracted_text": "lcdGola zero'",
+        "about": "A shop where men\u00e2\u20ac\u2122s haircuts and grooming services are provided."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_59",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_59.png",
+        "area": 105592,
+        "bbox": [
+            277,
+            655,
+            580,
+            242
+        ],
+        "description": "television, television system",
+        "extracted_text": "9093",
+        "about": "A device for receiving television broadcasts and a system involving the transmission of these broadcasts to deliver visual and audio content."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_60",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_60.png",
+        "area": 66883,
+        "bbox": [
+            680,
+            268,
+            498,
+            211
+        ],
+        "description": "window screen",
+        "extracted_text": "@TD",
+        "about": "A mesh or screen fitted over a window to keep insects out while allowing fresh air to enter."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_61",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_61.png",
+        "area": 8050,
+        "bbox": [
+            215,
+            189,
+            198,
+            105
+        ],
+        "description": "assault rifle, assault gun",
+        "extracted_text": "",
+        "about": "A rapid-fire, magazine-fed rifle designed for military use."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_62",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_62.png",
+        "area": 72385,
+        "bbox": [
+            0,
+            257,
+            209,
+            528
+        ],
+        "description": "traffic light, traffic signal, stoplight",
+        "extracted_text": "x: KiW",
+        "about": "A signaling device at intersections that controls vehicle and pedestrian traffic with colored lights."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_63",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_63.png",
+        "area": 29872,
+        "bbox": [
+            954,
+            135,
+            159,
+            762
+        ],
+        "description": "guillotine",
+        "extracted_text": "",
+        "about": "A device used for execution by beheading, consisting of a heavy blade that drops between two vertical guides."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_64",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_64.png",
+        "area": 19581,
+        "bbox": [
+            187,
+            399,
+            190,
+            140
+        ],
+        "description": "modem",
+        "extracted_text": "UAMSUNG",
+        "about": "A device that modulates and demodulates signals for internet connectivity, allowing computers to communicate over telephone lines or cable systems."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_65",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_65.png",
+        "area": 2471,
+        "bbox": [
+            371,
+            785,
+            50,
+            51
+        ],
+        "description": "caldron, cauldron",
+        "extracted_text": "",
+        "about": "A large, round pot used for boiling liquids, often associated with witchcraft in folklore or used in cooking."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_66",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_66.png",
+        "area": 1313,
+        "bbox": [
+            736,
+            196,
+            43,
+            42
+        ],
+        "description": "buckle",
+        "extracted_text": "6",
+        "about": "A clasp or fastening device for securing belts, shoes, or other items, often made of metal."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_67",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_67.png",
+        "area": 349,
+        "bbox": [
+            1141,
+            872,
+            17,
+            25
+        ],
+        "description": "maraca",
+        "extracted_text": "",
+        "about": "A percussion instrument consisting of a hollow, dried gourd filled with seeds or beans, shaken to produce a rhythmic sound, often used in Latin music."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_68",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_68.png",
+        "area": 1508,
+        "bbox": [
+            818,
+            187,
+            42,
+            43
+        ],
+        "description": "puck, hockey puck",
+        "extracted_text": "",
+        "about": "A small, hard rubber disc used in ice hockey, struck by players with sticks to score goals in a fast-paced, competitive game."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_69",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_69.png",
+        "area": 11100,
+        "bbox": [
+            341,
+            321,
+            81,
+            577
+        ],
+        "description": "guillotine",
+        "extracted_text": "",
+        "about": "A device used for execution by beheading, consisting of a heavy blade that drops between two vertical guides."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_70",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_70.png",
+        "area": 317,
+        "bbox": [
+            877,
+            648,
+            17,
+            20
+        ],
+        "description": "milk can",
+        "extracted_text": "#",
+        "about": "A large metal container used for storing and transporting milk, traditionally used on dairy farms and in milk distribution."
+    },
+    {
+        "object_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d_71",
+        "master_id": "ed5efb08-0f69-4cb9-a2b1-709729890d6d",
+        "object_filename": "C:\\Users\\adity\\Documents\\Cheetahs\\wasserstoff\\project_root\\data\\segmented_objects\\ed5efb08-0f69-4cb9-a2b1-709729890d6d\\ed5efb08-0f69-4cb9-a2b1-709729890d6d_71.png",
+        "area": 257,
+        "bbox": [
+            877,
+            591,
+            16,
+            23
+        ],
+        "description": "pedestal, plinth, footstall",
+        "extracted_text": "",
+        "about": "A base or platform that supports a statue, column, or structure, often used in architecture and art to elevate and showcase objects."
+    }
+]
