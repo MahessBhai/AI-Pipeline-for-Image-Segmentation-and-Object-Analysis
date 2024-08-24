@@ -1,4 +1,4 @@
-# AI-Pipeline-for-Image-Segmentation-and-Object-Analysis
+# AI Pipeline for Image Segmentation and Object-Analysis
 
 ## Overview
 
